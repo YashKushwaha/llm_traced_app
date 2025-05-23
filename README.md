@@ -1,0 +1,1 @@
+Simple app to test usage of open telemetry in projects
