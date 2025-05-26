@@ -19,7 +19,7 @@ It uses the [OpenTelemetry Python SDK](https://opentelemetry.io/docs/languages/p
 ## 🗂️ Project Structure
 
 ```
-yashkushwaha-llm_traced_app/
+llm_traced_app/
 ├── README.md                # Project documentation
 ├── app.py                   # Main FastAPI application
 ├── llm_chain.py             # Simulated LLM logic
